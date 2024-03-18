@@ -7,8 +7,8 @@ Date,Greenhouse Temp,Greenhouse Humidity,Soil Temp, Soil Humidity,Outside Lux,No
 3/7/2024,64,64.61,-,-,-,-
 3/8/2024,63,62.16,-,-,-,-
 3/9/2024,48,74.29,-,-,-,Heater failure in Greenhouse
-3/10/2024,57,63.25,-,-,-,Heater failure in Greenhouse
-3/11/2024,59,51.04,-,-,-,Heater replaced
+3/10/2024,57,63.25,-,-,-,Heater replaced
+3/11/2024,59,51.04,-,-,-,-
 3/12/2024,71,44.34,54.5,-,2225,-
 3/13/2024,70,45.56,54.1,-,2555,-
 3/14/2024,77,45.08,55.4,-,1805,-
